@@ -1,0 +1,6 @@
+
+.. |mu|      unicode:: U+003BC .. GREEK SMALL LETTER MU
+   :rtrim:
+.. |nbsp|    unicode:: U+00A0 .. NON-BREAKING SPACE
+.. |nd|      unicode:: U+2013  .. EN DASH
+
