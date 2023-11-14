@@ -71,8 +71,8 @@ chapter 5.  Insects are just more manageable.
 The Races of Jarn
 -----------------
 
-The Quehn, Hoon, Urs, and Traeki of this adventure are a bit different
-from Brin's novels.  
+The Quehen, Hoon, Urs, and Traeki of this adventure are similer to
+those from Brin's novels, but adapted a bit for D&D.
 
 The stats given below are for villager adults.  All four races can be
 NPC of any class or level.  Mechanically, these should be treated as
@@ -84,16 +84,16 @@ and spoken by creatures possessing a wide variety of vocalization
 apparatuses.  It will, at first, take players some time (or a very
 high roll) to recognize that all NPCs are speaking the same language.
 
-The Quehn
-~~~~~~~~~
+The Quehen
+~~~~~~~~~~
 
-Quehn are large, 5-fold-symmetric crab-like creatures.  They have a
+Quehen are large, 5-fold-symmetric crab-like creatures.  They have a
 thick, star-shaped, chitonous shell covering the top of their bodies
 with thinner, cartilaginous plates on their underside.  They are
 semi-aquatic, living in dens built into the ground near rivers and
 lakes, and equally happy on land or under water.
 
-Quehn have a sensory organ in the center of their body shaped like a
+Quehen have a sensory organ in the center of their body shaped like a
 dome with optical and auditory sensors pointing in all directions.
 This dome can be retracted into their bodies for sleep or protection,
 but doing so greatly limits their ability to see or hear.
@@ -110,7 +110,7 @@ They speak using a complex series of chitous rods attached to
 trigger-like musculature just beneath the thick upper shell.  These
 beat against shell in complex speech patterns.
 
-Quehn are also natural telepaths using the same mechanics at
+Quehen are also natural telepaths using the same mechanics at
 Thri-Kreen.
 
 :Armor class:   15
@@ -125,7 +125,7 @@ Thri-Kreen.
 
 
 :Senses: Telepathy, Passive Perception 10, advantage on surprise rolls
-:Languages: Jarn common, Quehnish click-speak
+:Languages: Jarn common, Quehenish click-speak
 :Challenge: 1/2 (100 XP)
 :Proficiency Bonus: +2
 
@@ -145,8 +145,10 @@ to knuckle walking when startled or in a particular hurry.  Adults
 bound in the light gravity of Jarn using their multi-jointed lags as a
 sort of spring.
 
-Hoon have deep, loud, booming voices due to barrel chests and thick
-vocal cords in their muscled necks.
+Hoon have deep, loud, booming voices due to barrel chests and a sort
+of inflatable pouch on their necks.  This pouch gives a broad vocal
+range, making hoon popular singers and performing artists in Jarn
+communities.
 
 :Armor class:   10
 :Hit Points:     8
@@ -208,7 +210,7 @@ Urs Males
 
 ========= ========= ========= ========= ========= =========
  **STR**   **DEX**   **CON**   **INT**   **WIS**   **CHA**
- 6        10        8         10         12        10
+ 5        10        7         10         12        10
 ========= ========= ========= ========= ========= =========
 
 
@@ -221,16 +223,16 @@ Urs Males
 The Traeki
 ~~~~~~~~~~
 
-The Traeki are composed of stacks or squishy, fleshy rings arranged
-into a conical shape anywhere from 2 to 12 feet tall, depending on how
-many rings are in the stack.  An individual ring is not an
-intelligent, independent creature.  Only when a stack is large enough
-and composed of certain combinations of ring types is the stack
-considered a Traeki.  The bare minimum for a stack to be considered a
-Traeki includes at least one sensory ring, a cognition ring, and a
-control ring capable of coordinating the activities of the other
-rings.  To be a fully functional member of Jarn society, a Traeki
-would also require an ambulatory or swimming ring, one or more
+The Traeki are genderless creatures composed of stacks or squishy,
+fleshy rings arranged into a conical shape anywhere from 2 to 12 feet
+tall, depending on how many rings are in the stack.  An individual
+ring is not an intelligent, independent creature.  Only when a stack
+is large enough and composed of certain combinations of ring types is
+the stack considered a Traeki.  The bare minimum for a stack to be
+considered a Traeki includes at least one sensory ring, a cognition
+ring, and a control ring capable of coordinating the activities of the
+other rings.  To be a fully functional member of Jarn society, a
+Traeki would also require an ambulatory or swimming ring, one or more
 manipulation rings, and a vocalization ring.  Additional rings can be
 added to enhance the abilities of an individual Traeki, however there
 is a limit to how tall a Traeki can be with a single control ring.  It
@@ -241,8 +243,9 @@ specific purposes.
 Traeki live in humid, marshy locations which are well suited to
 nurturing their "young", which are new ring segments sprouted off of
 reproductive rings using genetic material collected from existing
-rings.  These young are grown in creches attended by Traeki with
-empathy rings specialized for this purpose.
+rings (either in an individual stack or from a creche).  These sprouts
+are grown in creches attended by Traeki with empathy rings specialized
+for this purpose.
 
 The physical variability of Traeki is enormous, with very few having
 the same configuration of rings.  Their specialization for different
@@ -275,6 +278,8 @@ capable to manipulating magic are accomplished mages and alchemists.
  variable   variable   variable   variable   variable   variable
 ========== ========== ========== ========== ========== ==========
 
+Any of these skills can naturally be as low as 3 or as high as 15 in a
+commoner depending on its arrangement of rings.
 
 :Senses: Passive Perception 10 (or higher)
 :Languages: Jarn common (with communication ring), pheromonic communication
