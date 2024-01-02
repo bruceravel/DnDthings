@@ -34,7 +34,7 @@ numfig = True
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = ['sphinx_math_dollar', 'sphinx.ext.mathjax',
-              'sphinx.ext.todo'
+              'sphinx.ext.todo', 'sphinx_design', 'sphinx_subfigure'
 ]
 todo_include_todos = True
 

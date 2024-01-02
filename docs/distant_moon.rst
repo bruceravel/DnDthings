@@ -16,4 +16,6 @@ A short campaign for level 8 characcters.
    distant_moon/chapter5.rst
    distant_moon/chapter6.rst
    distant_moon/chapter7.rst
+   distant_moon/magic_items.rst
+   distant_moon/rules.rst
 

@@ -3,4 +3,4 @@
    :rtrim:
 .. |nbsp|    unicode:: U+00A0 .. NON-BREAKING SPACE
 .. |nd|      unicode:: U+2013  .. EN DASH
-
+.. |checkbox|  unicode:: U+2610  .. BOX

@@ -96,7 +96,7 @@ Anya's information for the party:
   could be related to the Godslayer.
 + Traeki being traeki, it is not quite clear which individual has been
   dealing with these apparent out-worlders.
-+ The best bet, though, is a famously reclusive stack maked In Go Tin
++ The best bet, though, is a famously reclusive stack named In Go Tin
   Pok that lives in a tower on the side of a mesa off in the direction
   of the Fireflow Mountains.
 + The best way to get to In Go's home is to take the next train going
@@ -141,32 +141,32 @@ process, only a benevolent mutual parasite.  Anya will say as much.
 
 Oon For is a commoner.
 
-Oon For, 1st level traeki ring breeder
+.. card:: Oon For, 1st level traeki ring breeder
 
-:Armor class:   10
-:Hit Points:    8
-:Speed:         0
+   :Armor class:   10
+   :Hit Points:    8
+   :Speed:         0
 
-========== ========== ========== ========== ========== ==========
- **STR**    **DEX**    **CON**    **INT**    **WIS**    **CHA**
- 10         10         10         12         15         16
-========== ========== ========== ========== ========== ==========
+   ========== ========== ========== ========== ========== ==========
+   **STR**    **DEX**    **CON**    **INT**    **WIS**    **CHA**
+   10         10         10         12         15         16
+   ========== ========== ========== ========== ========== ==========
 
 
-:Senses: Passive Perception 12, advantage on perception if involving smell
-:Languages: Jarn common, traeki pheromonic communication
-:Challenge: 1/2
-:Proficiency Bonus: +2
+   :Senses: Passive Perception 12, advantage on perception if involving smell
+   :Languages: Jarn common, traeki pheromonic communication
+   :Challenge: 1/2
+   :Proficiency Bonus: +2
 
 
 
 Consequence of parasite decision
 --------------------------------
 
-If the players opt to accept the parasite |nd| communication problems
-solved.   Anya will take them to the traeki's nursery.  This is a
-weird mud-brick building down by the lakeside.  The interior of Oon
-For's home has a sort of catwalk around the perimeter of the round
+If the players opt to consider the parasite ... communication problems
+close to solved!  Anya will take them to the traeki's nursery.  This
+is a weird mud-brick building down by the lakeside.  The interior of
+Oon For's home has a sort of catwalk around the perimeter of the round
 building.  The entire center of the building looks like a compost
 pile.
 
@@ -177,9 +177,10 @@ fine.  Anyone who fails will have trouble staying in the building.
 That will not preclude getting a parasite, but it will preclude being
 a party to the conversation with Oon For.
 
+
 The most prominent feature when the party walks in is the 6 foot tall
 stack of at least 12 rings.  Could be thirteen or fourteen depending
-on how deep the mulch covering the entire floor is.  This is a Oon
+on how deep the mulch covering the entire floor is.  This is Oon
 For.  Oon For currently is not on top of its ambulatory ring, so it
 cannot move from it's spot about 5 feet from the catwalk.  It has a
 weird manipulation ring which has three 10 foot long, spindly, woody,
@@ -187,6 +188,17 @@ multi-jointed arms that end in a sort of six-finger claw from a claw
 machine.   One arm is folded up against its stack, the other two are
 manipulating things under the surface of the mulch.  At the top of the
 stack is a small ring with lots of eyeballs.
+
+.. admonition:: Roll playing Oon For and Anya
+   :class: sidebar note
+
+   The worm is an unvarnished positive.  The are **no** ill effects of
+   having the worm.  The linguistic abilities granted are 100 percent
+   positive.  
+
+   The process, however, is meant to be a weird and uncomfortable and
+   suspicious as possible for the players.  The grosser the process,
+   the better!
 
 A closer look around the room will show lots of small rings wriggling
 around in the mulch.  These are all solitary rings, not actual traeki.
@@ -196,7 +208,7 @@ behavior should be strange and slightly off-putting, although  Anya
 will be completely comfortable with everything it says and does.
 
 Oon For is happy to provide language worm parasites to the party.  It
-has so expectation of payment, simply happy to provide the service.
+has no expectation of payment, simply happy to provide the service.
 But it would be interested in sampling some genetic material from the
 party.  Allow the players to be creative about how they provide it.
 
@@ -209,14 +221,5 @@ pseudo-pod covered in thick stubby hair at the end.  When inserting
 the worm in the player's ear canal, it rests this pseudo-pod on the
 PCs cheek to monitor the insertion process.
 
-.. admonition:: Roll playing Oon For and Anya
-
-   The worm is an unvarnished positive.  The are **no** ill effects of
-   having the worm.  The linguistic abilities granted are 100 percent
-   positive.  
-
-   The process, however, is meant to be a weird and uncomfortable and
-   suspicious as possible for the players.  The grosser the process,
-   the better!
 
 

@@ -38,9 +38,9 @@ Town Officials
 --------------
 
 + Lady Galstott
-+ Her assistant
-+ Her sheriff of the Guard
-+ Her wizard
++ Her assistant, Violenne, halfling female
++ Her sheriff of the Guard, Jimmer Valesse, human male
++ Her wizard, Kenersley, male dwarf
 + High Priest of the Sanctuary of Lothander
 + Attendants to High Priest
 + Head Stonemason of the Temple of Moradin
@@ -68,11 +68,11 @@ history roll, but the DC is very hard: 22.  If anyone passes, the
 story to follow is exactly as the PC knows it.
 
 "Two thousand years ago, my order, the followers of the Dawn Father,
-came into conflict with a cult venerating Myrkul, the White Skull, god
-of death and slaughter.  Somehow, these cultists managed to gain the
-knowledge to create a Godslayer, a massive construct imbued with
-unearthly powers and capable of destroying divine beings.  This
-Godslayer was directed to find and slay Lathander.
+came into conflict with a cult venerating Loviattar, god of pain and
+torure.  Somehow, these cultists managed to gain the knowledge to
+create a Godslayer, a massive construct imbued with unearthly powers
+and capable of destroying divine beings.  This Godslayer was directed
+to find and slay Lathander.
 
 "Lore of that time is patchy and much of our knowledge is lost.  We
 know that the Godslayer was loosed onto our world and that it caused
@@ -107,7 +107,27 @@ investigate the strange land that lies on the other side, search for
 any information regarding the existance and state of the Godslayer,
 and return to us with that information."
 
-Some details for the ensuing conversation:
+.. subfigure::  AB
+   :layout-sm: AB
+   :gap: 8px
+   :subcaptions: above
+   :name: fig-town_meeting
+   :class-grid: outline
+
+   .. image:: ../_static/distant_moon/meet_town_leaders_1.jpg
+
+   .. image:: ../_static/distant_moon/meet_town_leaders_2.jpg
+
+   Setup for meeting with town leaders in nave of Lathander temple.
+   Lady Galstatt is at the head of the table with Violenne behind
+   her.  To her left and right are Kenersley and Jimmer to her sides.
+   6 Guards flank the room.  In the middle of the table are the two
+   priests and their attendants.
+
+
+
+Some details for the ensuing conversation
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 + The PCs are offered 200 gp each traveling money for accepting the job (the
   money will not be all that useful once there, but players do like
@@ -128,7 +148,8 @@ Some details for the ensuing conversation:
   companions chose not to return, instead choosing to continue
   exploring Jarn.  While they have not been seen since, the
   Dreamwalker assures that they are still alive. Her final companion
-  fell ill, returned through the portal, and passed away soon after.
+  was seriously injured, returned through the portal, and passed away
+  soon after.
 
 * Before the fourth companion died, he spoke fondly of the village
   where the Dreamwalker took residence.  His descriptions of the
@@ -144,11 +165,24 @@ Some details for the ensuing conversation:
 + In short, don't give up too much.  The discovery is the fun of the
   adventure.
 
-+ The second party ran into trouble.  Only one member made it back.
-  He was grievously injured from being trampled by some kind of giant
-  lizard.  That and the stress of the return journey were too much, he
-  did not last long and what he reported was disjointed and mostly
-  about giant lizards.
++ The second party never returned.  Through the Sleeper, the
+  Dreamwalker reported that the second party ran afoul of another
+  group, possibly a group of elves, and were killed in some sort of
+  street fight.  Again, the details are vague.
+
+Payment
+~~~~~~~
+
+Up front, each party member is given:
+
++ 200 gp
++ 3 greater potions of healing (4d4+4)
+
+Upon return, each party member will receive:
+
++ 100 pp
++ keep any loot found along the way
+
 
 
 The task
@@ -169,16 +203,29 @@ The task
    full commission.
 
 #. There is no expectation that the Godslayer would be destroyed by
-   the party.  If the Godslayer is active, engaging with it is
-   certainly not within the scope of the commission.
+   the party.  If the Godslayer is functioning, engaging with it is
+   certainly not within the scope of the commission and would almost
+   certainly be suicidal.
 
 #. If the party finds the Godslayer, take whatever actions seem
    appropriate.  That will be entirely the party's decision.
 
 
-.. attention::
+.. admonition:: Getting back
 
-   How do they get back?
+   The wizard gives the party a rod, explaining that it can be pressed
+   against whatever forms the portal on the other side to activate the
+   portal.  Either the warlock or the arcane trickster should be able
+   to do this.  That will open the portal, allowing the team to step
+   through, back into this room.
+
+   Why are three casters needed to open the portal on this side?
+   Well, the device on the other side is part of an ancient network of
+   such things.  This is a recently created device which forces its
+   way into the network.  Opening the portal is much easier from the
+   other side, using the ancient device.  To say that another way |nd|
+   the portals are made out of uncut, locally sourced, organic plot
+   device.
 
 
 The portal chamber
@@ -206,6 +253,22 @@ explain that each will channel magic -- arcane, divine, and druidic
 shimmering blue sheet of light extends over the arch, step through.  
 
 That's it.
+
+Spell casters:
+
++ **Sorcerer**: elven female
++ **Druid**: ambiguous ancestry female
++ **Cleric**:  dwarven male
+
+
+.. _fig-portal:
+.. figure::  ../_static/distant_moon/portal_chamber.jpg
+   :target: ../_static/distant_moon/portal_chamber.jpg
+   :width: 75%
+   :align: center
+
+   The portal chamber after the three casters have opened the portal.
+
 
 The other side
 --------------
@@ -267,3 +330,17 @@ line passing in front of it.
 The players are on a moon orbiting a Saturn-like planet.
 
 From here, the path is down hill, towards the ravine.
+
+On the trail
+------------
+
+We need to roll some dice to start the adventure, so there will be an
+encounter on the path down hill towards the river.
+
+The path goes through a sort of badlands, with plenty of boulder
+fields and mesa |nd| plenty of places for the monsters to hide.
+
+.. admonition:: Encounter
+
+   2 fragrites from Creature Codex p. 164
+

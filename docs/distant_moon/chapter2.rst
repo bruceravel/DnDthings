@@ -99,14 +99,9 @@ mounted an expedition to Jarn's cold side to do a bit of ice hunting
 and investigate the history of ancient mining activities related to
 magical oars and gems that are only found on that side of the moon.
 
-Jimmer, the Paladin, was injured in an encounter with a glyptodon that
-had strayed far from its herd.  His injuries were confounding to the
-skilled Traeki healers, due to their unfamiliarity with human
-physiology.  A group of hoon rangers accompanied Jimmer back to the
-mountaintop portal, but by the time they arrived, Jimmers injuries
-were quite severely infected, even with the benefit of Traeki potions.
 
 .. admonition:: Aside
+   :class: sidebar note
 
    The hoon brought a single Traeki ring with them.  This ring was
    intended to produce antibiotics helpful for Jimmer.  It was also
@@ -116,20 +111,27 @@ were quite severely infected, even with the benefit of Traeki potions.
    much more prepared to help the party ... well, the human or
    half-human members of the party.
 
-About eight months after settling in Ssillissoz, Anya had her fist
+Jimmer, the Paladin, was injured in an encounter with a glyptodon that
+had strayed far from its herd.  His injuries were confounding to the
+skilled Traeki healers, due to their unfamiliarity with human
+physiology.  A group of hoon rangers accompanied Jimmer back to the
+mountaintop portal, but by the time they arrived, Jimmers injuries
+were quite severely infected, even with the benefit of Traeki potions.
+
+About eight months after settling in Ssillissoz, Anya had her first
 task as a Dreamwalker.  The authorities back in Riverun sent a second
 party through the portal.  By this time, Anya had learned of a group
 of off-world drow who had arrived in the most recent transportation
 window and set up shop in a distant, mostly Ursic town called
 Ssonnissov.  Anya tried once to contact one of these drow in his
 sleep.  She quickly broke contact when it became clear that the drow
-know exactly what was going on, has sophisticated metal defenses in
+know exactly what was going on, had sophisticated mental defenses in
 place, and very much wanted to know where on the planet he might find
 something so amazing as a dreamwalker.
 
-The drow were rumored to be asking questions about an
-nameless, extinct volcano known to the locals as an unholy and
-forbidden place.  This seemed like a lead, so Anya sent the second
+The drow were rumored to be asking questions about a nameless, extinct
+volcano deep into a region called The Blight known to the locals as
+Ember's Sorrow.  This seemed like a lead, so Anya sent the second
 expedition to investigate.  She kept in touch with that group via
 dreams for several weeks before loosing contact.  She eventually
 learned from a trading caravan about a running fight through the
@@ -139,12 +141,12 @@ that had been in town for some time slaying the new arrivals.
 Anya reported this back to Riverun via the difficult chore of
 dreamwalking though an open portal.  Such communications require a
 psionically sensitive sleeper on the other end much effort on Anya's
-part.  Even so, she was only able to report on the broad outline of
-the fates of the second expedition.
+part.  In this way, she was only able to report on the broad outline
+of the fates of the second expedition.
 
 She has been waiting for the third expedition and, armed with more
-intelligence on activities across Jarn, has a new idea for
-where to send the third expedition.
+intelligence on activities across Jarn, has a new idea for where to
+send the third expedition.
 
 Anya Varothian, 5th level half-elf psionic
 
@@ -354,15 +356,15 @@ ride.
 .. admonition:: Author's motivation
 
    This encounter is inspired by my good friend Jonathon who is a
-   maniac at the D&D table.  He is unfailing hostile to NPCs.  IN one
-   campaign, he was desperate to commandeer the airship his party was
-   flying on.  I talked him out of in the interest of keeping the
-   campaign moving forward.  In retrospect, that was a rookie DM
-   mistake.  I should have let him do what he wanted and pivoted the
-   campaign to the consequence.  In this encounter |nd| early in the
-   campaign when people should not yet be too invested in their
-   characters |nd| the "pivot" is to a TPK.  Hmmm... I have never DMed
-   a TPK...
+   maniac at the D&D table.  He is unfailingly hostile to NPCs.  In
+   one campaign, he was desperate to commandeer the airship his party
+   was flying on.  I talked him out of doing so in the interest of
+   keeping the campaign moving forward.  In retrospect, that was a
+   rookie DM mistake.  I should have let him do what he wanted and
+   pivoted the campaign to the consequence.  In this encounter |nd|
+   early in the campaign when people should not yet be too invested in
+   their characters |nd| the "pivot" is towards a TPK.  Hmmm... I have
+   never DMed a TPK...
 
 
 Arrival in Ssillissoz
